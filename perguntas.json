@@ -1,0 +1,53 @@
+[
+    {
+        "pergunta": "Qual função do Python é usada para exibir algo na tela?",
+        "opções": ["print()", "show()", "display()", "paint()"],
+        "resposta": "print()"
+    },
+    {
+        "pergunta": "Qual operador verifica igualdade?",
+        "opções": ["=", "==", "===", "!="],
+        "resposta": "=="
+    },
+    {
+        "pergunta": "Qual método usamos para adicionar um item ao final de uma lista?",
+        "opções": ["add()", "push()", "append()", "insert()"],
+        "resposta": "append()"
+    },
+    {
+        "pergunta": "Qual palavra-chave usamos para definir uma função em Python?",
+        "opções": ["func", "def", "function", "lambda"],
+        "resposta": "def"
+    },
+    {
+        "pergunta": "Qual estrutura de dados é imutável em Python?",
+        "opções": ["lista", "tupla", "dicionário", "conjunto"],
+        "resposta": "tupla"
+    },
+    {
+        "pergunta": "Como verificamos o tamanho de uma lista?",
+        "opções": ["size()", "count()", "len()", "length()"],
+        "resposta": "len()"
+    },
+    {
+        "pergunta": "Qual operador lógico representa 'ou'?",
+        "opções": ["||", "or", "&&", "&"],
+        "resposta": "or"
+    },
+    {
+        "pergunta": "Como convertemos um número inteiro para string?",
+        "opções": ["str()", "int()", "string()", "convert()"],
+        "resposta": "str()"
+    },
+    {
+        "pergunta": "Qual estrutura de repetição percorre elementos de uma lista?",
+        "opções": ["while", "foreach", "for", "loop"],
+        "resposta": "for"
+    },
+    {
+        "pergunta": "Como importamos um módulo em Python?",
+        "opções": ["include", "import", "require", "using"],
+        "resposta": "import"
+    }
+
+]
